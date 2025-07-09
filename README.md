@@ -99,7 +99,7 @@ f2 --> b3
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/tVUW5cF.png](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="120px" />
+  <img src="https://github.com/MauroKpoxD/MauroKpoxD/blob/main/animation_500_kxa883sd.gif" height="440px" />
   <p><i>Thanks for visiting my GitHub profile!</i></p>
 </div>
 ```
