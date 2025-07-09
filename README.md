@@ -1,8 +1,7 @@
 ---
 
-````markdown
 <div align="center">
-  <img src="https://i.imgur.com/lLZzO3F.gif" height="70px" alt="Bongo Cat Dev" />
+  <img src="https://camo.githubusercontent.com/77570601e00da6b0a672c8114cf3879487bdb43d7460f76ecd843536c78b1244/68747470733a2f2f632e74656e6f722e636f6d2f665967393171427044646741414141692f626f6e676f2d6361742d7472616e73706172656e742e676966" height="70px" alt="Bongo Cat Dev" />
   <h1>Hi! I'm <strong>S4ndulos</strong> 👨‍💻</h1>
   <p><em>Technical Informatics Student | Buenos Aires, Argentina 🇦🇷</em></p>
 </div>
@@ -100,7 +99,7 @@ f2 --> b3
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/oHkce82.gif" height="80px" />
+  <img src="https://i.imgur.com/tVUW5cF.png" height="80px" />
   <p><i>Thanks for visiting my GitHub profile!</i></p>
 </div>
 ```
