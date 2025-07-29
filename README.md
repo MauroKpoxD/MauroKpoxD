@@ -84,7 +84,7 @@ f2 --> b3
 
 | Platform     | Link                                                      |
 | ------------ | --------------------------------------------------------- |
-| 📧 Email     | [s4ndulos@protonmail.com](mailto:s4ndulos@protonmail.com) |
+| 📧 Email     | [s4ndulos@proton.me](mailto:s4ndulos@proton.me) |
 | 💼 GitHub    | [MauroKpoxD](https://github.com/MauroKpoxD)               |
              
 
