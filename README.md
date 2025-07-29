@@ -84,9 +84,9 @@ f2 --> b3
 
 | Platform     | Link                                                      |
 | ------------ | --------------------------------------------------------- |
-| 📧 Email     | [sandulos@protonmail.com](mailto:sandulos@protonmail.com) |
+| 📧 Email     | [s4ndulos@protonmail.com](mailto:s4ndulos@protonmail.com) |
 | 💼 GitHub    | [MauroKpoxD](https://github.com/MauroKpoxD)               |
-| ₿ BTC Wallet | `bc1qa79gednhgjy02ywq26ez4runa9td02r2zrnp5e`              |
+             
 
 ---
 
