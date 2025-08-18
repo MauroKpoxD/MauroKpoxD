@@ -13,7 +13,7 @@
 - 💻 Focusing on **C++** and diving into **low-level systems**
 - ⚙️ Learning **Python**, **C**, **Assembly**, and **C#**
 - 🛠️ Tinkering with tools like **XAMPP**, **SQL**, and building personal projects
-- 📡 Working on: **DNS-based anti-ads proxy in C++**
+- 📡 Working on: **Projec By SCHOOl, "Cuaderno Virtual"**
 
 ---
 
