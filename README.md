@@ -105,13 +105,3 @@ f2 --> b3
 ```
 
 ---
-
-¿Querés que agregue alguna sección con proyectos destacados con links y descripciones? Puedo ayudarte a armar algo así como:
-
-```markdown
-### 🧪 Featured Projects
-
-- **ProxyTraineer** – DNS-based anti-ads filter written in C++
-  > 🚧 In development – filters DNS requests to block known ad servers using a local proxy
-  > 🔗 [Link al repositorio]()
-```
