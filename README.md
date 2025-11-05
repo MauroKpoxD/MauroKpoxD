@@ -11,50 +11,8 @@
 ### 🧠 About Me
 - 🧑‍🎓 Currently studying **Technical Informatics**
 - 💻 Focusing on **C++** and diving into **low-level systems**
-- ⚙️ Learning **Python**, **C**, **Assembly**, and **C#**
+- ⚙️ Learning **C++ and c# with .NET 9 Framework**
 - 🛠️ Tinkering with tools like **XAMPP**, **SQL**, and building personal projects
-- 📡 Working on: **Projec By SCHOOl, "Cuaderno Virtual"**
-
----
-
-### 💡 Tech Stack
-
-```mermaid
-flowchart 
-f1[HTML]
-f2[SQL]
-f3[C++]
-f4[Python]
-fw1((XAMPP))
-fw2((Assembly))
-fw3((C#))
-b1{CMD / Powershell}
-b2{Linux Terminal}
-b3{npm / pacman}
-
-subgraph Backend
-  f2
-  f3
-  f4
-  fw1
-end
-
-subgraph Tools
-  b1
-  b2
-  b3
-end
-
-subgraph In-Progress
-  fw2
-  fw3
-end
-
-f1 --> fw1
-f3 --> b1
-f4 --> b2
-f2 --> b3
-````
 
 ---
 
@@ -77,16 +35,6 @@ f2 --> b3
   <img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" />
   <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
 </div>
-
----
-
-### 📬 Contact Me
-
-| Platform     | Link                                                      |
-| ------------ | --------------------------------------------------------- |
-| 📧 Email     | [s4ndulos@proton.me](mailto:s4ndulos@proton.me) |
-| 💼 GitHub    | [MauroKpoxD](https://github.com/MauroKpoxD)               |
-             
 
 ---
 
