@@ -46,23 +46,6 @@
 
 ---
 
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S4ndulos&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4ndulos&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4ndulos&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</div>
-
----
-
 ### Featured Project
 
 > **[DesktopManagerStock](https://github.com/MauroKpoxD/DesktopManagerStock)** – *(Description coming from you)* Briefly describe what this project does: e.g., "A desktop application for managing stock inventory, built with [Language] and [Technology]."
