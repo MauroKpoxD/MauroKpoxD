@@ -48,8 +48,6 @@
 
 ### Featured Project
 
-> **[DesktopManagerStock](https://github.com/MauroKpoxD/DesktopManagerStock)** – *(Description coming from you)* Briefly describe what this project does: e.g., "A desktop application for managing stock inventory, built with [Language] and [Technology]."
->
 > 🔗 [Repository Link](https://github.com/MauroKpoxD/DesktopManagerStock)
 
 ---
