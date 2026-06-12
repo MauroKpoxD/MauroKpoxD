@@ -21,15 +21,6 @@
 -  **Laboratorios:** Escenarios con Packet Tracer, GNS3, y máquinas virtuales para pruebas de penetración  
 -  **Comunidad:** Ayudo a nuevos usuarios en servidores de Discord (programación y ciberseguridad)  
 
-</td>
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4ndulos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### Entornos y herramientas
