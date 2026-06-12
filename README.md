@@ -8,7 +8,6 @@
 
 ### Sobre mí
 
-<table>
 <tr>
 <td width="60%">
 
@@ -109,19 +108,6 @@ API REST para gestión de inventario y stock, desarrollada con **FastAPI + SQLit
 | **Rate limiting** | slowapi |
 | **Logging** | logging estándar + rotación |
 | **Networking** | requests, httpx, scapy (aprendiendo) |
-
----
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4ndulos&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4ndulos&theme=radical&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0E75B6&sideLabels=0E75B6&dates=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S4ndulos&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
 
 ---
 
