@@ -116,7 +116,7 @@ API REST para gestión de inventario y stock, desarrollada con **FastAPI + SQLit
 <p align="center">
   <a href="https://twitter.com/MauroKpoxD"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.com/users/mauro_kpoxd"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:sandulientos827@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="mailto:santi@atlassoftware.xyz"><img src="https://img.shields.io/badge/atlassoftware.xyz-8B89CC?style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/S4ndulos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
