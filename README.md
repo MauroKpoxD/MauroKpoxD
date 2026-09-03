@@ -6,40 +6,52 @@
 
 ---
 
-### Sobre mí
+## 👋 About Me
 
+<table>
 <tr>
 <td width="60%">
 
--  **Edad:** 16 años  
--  **Ubicación:** Buenos Aires, Argentina  
--  **Estudios:** Técnico en Informática  
--  **Lenguajes favoritos:** Python (FastAPI), C/C++ (bajo nivel), C# (.NET 10 en aprendizaje)  
--  **Intereses:** Seguridad informática, hacking ético, redes, automatización  
--  **Personalización:** Arch Linux + BlackArch tools, configuro mi propio entorno  
--  **Laboratorios:** Escenarios con Packet Tracer, GNS3, y máquinas virtuales para pruebas de penetración  
--  **Comunidad:** Ayudo a nuevos usuarios en servidores de Discord (programación y ciberseguridad)  
+- 🧑‍🎓 **Age:** 16 years old  
+- 📍 **Location:** Buenos Aires, Argentina  
+- 🏫 **Education:** Technical Informatics Student  
+- 💻 **Favorite languages:** Python (FastAPI), C/C++, C# (.NET 10 learning)  
+- 🔒 **Interests:** Cybersecurity, ethical hacking, networking, automation  
+- 🐧 **Customization:** Arch Linux + BlackArch tools, building my own environment from scratch  
+- 🧪 **Labs:** Scenarios with Packet Tracer, GNS3, and VMs for penetration testing  
+- 🤝 **Community:** Helping newcomers on Discord servers (programming & cybersecurity)  
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="GitHub Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Entornos y herramientas
+## 🛠️ Environments & Tools
 
-| Sistema / Distro         | Editores / IDEs             | Terminal / Shell      |
+| System / Distro          | Editors / IDEs              | Terminal / Shell      |
 | ------------------------ | --------------------------- | --------------------- |
-| Windows 11/10/7       | VS Code / Visual Studio  |  CMD / PowerShell    |
-| Arch Linux + BlackArch| Linux Terminal           |  pacman / yay       |
-| Kali Linux            | Neovim (personalizado)   |  Alacritty          |
-| Raspberry Pi 5 (PiOS) | Vim                      |  Zsh + Oh My Zsh    |
-| Debian / Ubuntu Server| Sublime Text             |  Bash               |
+| Windows 11/10/7          | VS Code / Visual Studio     | CMD / PowerShell      |
+| Arch Linux + BlackArch   | Neovim (custom)             | Alacritty + Zsh       |
+| Kali Linux               | Vim                         | Bash                  |
+| Raspberry Pi 5 (PiOS)    | Sublime Text                | Zsh + Oh My Zsh       |
+| Debian / Ubuntu Server   | -                           | Bash                  |
 
 ---
 
-### Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -54,70 +66,53 @@
 
 ---
 
-### Conocimientos de redes y seguridad
+## 🌐 Networking & Security Knowledge
 
-| Área | Tecnologías / Herramientas | Proyectos / Labs |
-|------|----------------------------|------------------|
-| **Protocolos** | TCP/IP, HTTP/2, DNS, DHCP, VPN (WireGuard) | Configuración de servidor DHCP en Linux |
-| **Firewall** | iptables, nftables, Windows Defender Firewall | Reglas personalizadas en Arch y Windows |
-| **DNS** | Pi-hole (Raspberry Pi 5), Unbound | Bloqueo de anuncios y filtrado en red local |
-| **Análisis de tráfico** | Wireshark, tcpdump, Nmap | Escaneos de red, detección de vulnerabilidades |
-| **Pentesting** | Metasploit, BlackArch tools, keylogger bypass | Laboratorios propios con máquinas vulnerables |
-| **VPN** | WireGuard, PiVPN | Levantamiento de servicios fuera del router |
-
----
-
-### Proyecto destacado: DesktopManagerStock API
-
-> **Repositorio:** [MauroKpoxD/DesktopManagerStock](https://github.com/MauroKpoxD/DesktopManagerStock)
-
-API REST para gestión de inventario y stock, desarrollada con **FastAPI + SQLite + JWT**. Incluye autenticación por roles (admin, editor, lector), rate limiting, registro de movimientos, y despliegue con Docker.
-
-#### Características técnicas
-
-- **Framework:** FastAPI (Python)
-- **Base de datos:** SQLite con SQLAlchemy ORM (índices optimizados)
-- **Autenticación:** JWT (python-jose) + bcrypt (passlib)
-- **Roles:** `admin` (total), `editor` (puede modificar stock), `lector` (solo lectura)
-- **Seguridad:** Variables de entorno con Pydantic Settings, validación de SECRET_KEY, CORS configurable, rate limiting por endpoint (SlowAPI)
-- **Movimientos:** Registro automático de cada entrada/salida de stock con auditoría (usuario, fecha, stock resultante)
-- **Logging:** Archivo `app.log` + consola, rotación automática
-- **Despliegue:** Docker + docker-compose, listo para Raspberry Pi 5
-- **Documentación interactiva:** `/docs` (Swagger) y `/redoc`
-
-> [!NOTE]
-> La API está en constante evolución. Actualmente en versión `0.1.3` (ver `.env.example`).  
-
-<p align="center">
-  <a href="https://github.com/MauroKpoxD/DesktopManagerStock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauroKpoxD&repo=DesktopManagerStock&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" />
-  </a>
-</p>
+| Area | Technologies / Tools | Projects / Labs |
+|------|----------------------|-----------------|
+| **Protocols** | TCP/IP, HTTP/2, DNS, DHCP, VPN (WireGuard) | DHCP server setup on Linux |
+| **Firewall** | iptables, nftables, Windows Defender Firewall | Custom rules on Arch and Windows |
+| **DNS** | Pi-hole (Raspberry Pi 5), Unbound | Ad blocking and local network filtering |
+| **Traffic analysis** | Wireshark, tcpdump, Nmap | Network scanning, vulnerability detection |
+| **Pentesting** | Metasploit, BlackArch tools, keylogger bypass | Own labs with vulnerable machines |
+| **VPN** | WireGuard, PiVPN | Setting up services outside the router |
 
 ---
 
-### Python: Librerías que uso / aprendo
+## 📚 Python Libraries I Use / Learn
 
-| Categoría | Librerías |
-|-----------|------------|
-| **Web frameworks** | FastAPI, Flask (básico) |
-| **Seguridad** | cryptography (Fernet), python-jose, passlib, bcrypt |
-| **Bases de datos** | SQLAlchemy, SQLite3, Alembic (planeado) |
-| **Validación** | Pydantic, Pydantic Settings |
-| **Testing** | pytest, pytest-cov, factory_boy |
+| Category | Libraries |
+|----------|-----------|
+| **Web frameworks** | FastAPI, Flask (basic), **Django** |
+| **Security** | cryptography, cffi, pycparser, python-jose, passlib, bcrypt |
+| **Databases** | SQLAlchemy, SQLite3, asyncpg, Alembic (planned) |
+| **Validation** | Pydantic, Pydantic Settings, python-dotenv |
+| **Testing** | pytest, pytest-asyncio, pytest-cov, coverage, pluggy, iniconfig |
+| **Async / HTTP** | aiohttp, aiohappyeyeballs, aiosignal, frozenlist, multidict, yarl, propcache |
+| **Utilities** | attrs, cachetools, colorama, idna, packaging, psutil, Pygments, tzdata |
+| **Discord** | discord.py |
 | **Rate limiting** | slowapi |
-| **Logging** | logging estándar + rotación |
-| **Networking** | requests, httpx, scapy (aprendiendo) |
+| **Logging** | standard logging + rotation |
+| **Networking** | requests, httpx, scapy (learning) |
 
 ---
 
-### Conecta conmigo
+## 📊 Activity Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauroKpoxD&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroKpoxD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF" alt="Top Langs" />
+</div>
+
+---
+
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/MauroKpoxD"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/mauro_kpoxd"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:santi@atlassoftware.xyz"><img src="https://img.shields.io/badge/atlassoftware.xyz-8B89CC?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/S4ndulos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/users/0xzokr4m"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:santi@atlassoftware.xyz"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://github.com/MauroKpoxD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
