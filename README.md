@@ -6,8 +6,6 @@
 
 ---
 
-## 👋 About Me
-
 <table>
 <tr>
 <td width="60%">
@@ -24,7 +22,7 @@
 </td>
 <td width="40%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF&cache_seconds=3600" alt="GitHub Stats" />
 
 </td>
 </tr>
