@@ -23,7 +23,7 @@
 
 </td>
 <td width="40%">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://avatars.githubusercontent.com/MauroKpoxD?s=460&v=4" alt="MauroKpoxD" width="300" style="border-radius: 50%;" />
 </td>
 </tr>
 </table>
@@ -92,16 +92,6 @@
 | **Rate limiting** | slowapi |
 | **Logging** | standard logging + rotation |
 | **Networking** | requests, httpx, scapy (learning) |
-
----
-
-## 📊 Activity Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauroKpoxD&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&cache_seconds=3600" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroKpoxD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF&cache_seconds=3600" alt="Top Langs" />
-</div>
 
 ---
 
