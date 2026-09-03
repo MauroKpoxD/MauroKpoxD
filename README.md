@@ -24,7 +24,7 @@
 </td>
 <td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MauroKpoxD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
@@ -100,9 +100,9 @@
 ## 📊 Activity Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauroKpoxD&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=MauroKpoxD&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroKpoxD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauroKpoxD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF" alt="Top Langs" />
 </div>
 
 ---
